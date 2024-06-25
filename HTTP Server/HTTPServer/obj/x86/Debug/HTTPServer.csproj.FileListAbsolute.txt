@@ -1,0 +1,19 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.exe.config
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.exe
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.pdb
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+F:\Assingment data comm\data project\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Almodather\Desktop\Template[2023-2024]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
